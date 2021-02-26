@@ -1,0 +1,20 @@
+{
+  "name": "losheroes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
+    "@nuxtjs/universal-storage": "^0.5.7",
+    "core-js": "^3.8.3",
+    "nuxt": "^2.14.12",
+    "vee-validate": "^3.4.5"
+  }
+}
